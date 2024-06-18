@@ -1,0 +1,15 @@
+{
+  "name": "js-crash-2024",
+  "version": "1.0.0",
+  "description": "NodeJs Crash course",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --env-file=.env server2.js"
+  },
+  "author": "DENIS MOINI",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
